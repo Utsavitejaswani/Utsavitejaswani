@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 A dedicated Data analyst aspirent, specializing in microsoft excel and Power bi . Demonstrates a unique strength in completing tasks regardless of current skill level by leveraging modern AI tools to transform ideas into actionable insights, even when unfamiliar with the technology. Seeking a role to grow as a data analyst and expand knowledge across different fields.
 
-![<Swapnil-Parashar>'s Stats](https://github-readme-stats.vercel.app/api?username=Swapnil-Parashar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Swapnil-Parashar>'s Stats](https://github-readme-stats.vercel.app/api?username=Utsavitejaswani&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
