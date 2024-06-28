@@ -26,7 +26,7 @@ Enhancing SQL skills for efficient data querying and manipulation.
 ## 🏆 Achievements
 🌟 Competed in FrostHack 2k23 - Competed at IIT Mandi and developed a data-driven project for optimizing supply chain management.
 ## 📬 Get in Touch
-Connect with me on LinkedIn
+Connect with me on LinkedIn https://www.linkedin.com/in/utsavi-tejaswani-42733a231/
 Thanks for stopping by! Let's connect and explore the fascinating world of data analysis together. 📊
 
 
